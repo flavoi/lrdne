@@ -1,0 +1,8 @@
+# La ricerca di nuovi eroi
+In questo racconto parliamo di avventura. Ambientata in Golarion e realmente giocata in Pathfinder, la storia si sviluppa in tre capitoli tramite i quali un gruppo di avventurieri sarà destinato ad avere un ruolo fondamentale per il futuro della rigogliosa città di Kenabres.
+
+## Antefatto
+Per decenni i demoni hanno regnato nella regione. Temibili creature di ogni tipo, con la pelle dura come il ferro, denti affilati come lame e occhi brucianti come fiamme, hanno vagato per queste terre devastate che un tempo erano conosciute come il florido regno di Sarkoris. Quattro crociate sono nate con lo scopo di ripulire la zona ormai nota come “Piaga del Mondo”, ma ognuna di queste ha sempre incontrato un destino peggiore della precedente. Non fosse stato per le magiche Pietre Guardiane installate lungo i confini orientale e meridionale, i demoni avrebbero da tempo invaso il settentrione del continente di Avistan e forse ancora oltre.
+    La Quarta Crociata è andata via via spegnendosi per alcuni, ma è molto viva per diversi altri. Quel che è certo è che le paralizzanti carenze di risultati hanno abbattuto il morale dei crociati, mettendo a serio rischio l'intera guerra. E sebbene l’inquietante influenza dei demoni cominci a penetrare la mente di troppi uomini, una striminzita minoranza di sacerdoti e paladini non solo sostiene che l'ultima battaglia sia ancora in corso, ma che nell'immediato futuro sarà evidente il suo esito.
+    La Quarta Crociata non può dirsi di certo vivace, ma i crociati ci hanno azzeccato più di quanto pensino circa l'arrivo imminente di una svolta. Una svolta destinata ad essere a favore dell’Abisso.
+ 
