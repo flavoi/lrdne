@@ -1,7 +1,27 @@
-.DS_STORE
+# Linux Editors
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+*.swo
+
+# Mac
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# LaTeX
+*.pdf
 *.toc
 *.aux
 arsclassica.sty
 *.log
 *.idx
-
