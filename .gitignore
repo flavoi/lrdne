@@ -25,3 +25,5 @@ Desktop.ini
 arsclassica.sty
 *.log
 *.idx
+*.bcf
+*.xml
