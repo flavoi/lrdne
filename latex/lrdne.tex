@@ -1,7 +1,7 @@
 \documentclass[10pt,a4paper,twoside,openright,titlepage,fleqn,%
                headinclude,,footinclude,BCOR5mm,%
                numbers=noenddot,cleardoublepage=empty,%
-               tablecaptionabove]{scrreprt}
+               tablecaptionabove]{scrbook}
                
 \usepackage[italian,american]{babel}
 \usepackage[applemac]{inputenc}
@@ -32,18 +32,18 @@
 %******************************************************************
 \input{FrontBackMatter/Titlepage}
 \input{FrontBackMatter/Titleback}
-%\clearpage
-%\input{FrontBackMatter/Abstract+Sommario}
+\clearpage
+\input{FrontBackMatter/Abstract+Sommario}
 %\input{FrontBackMatter/Acknowledgements}
-%\pagestyle{scrheadings} 
-%\clearpage
+\pagestyle{scrheadings} 
+\clearpage
 %\input{FrontBackMatter/Contents}
 %\cleardoublepage
 %%******************************************************************
 %% Mainmatter
 %%******************************************************************
-%\pagenumbering{arabic}
-%\input{Chapters/Fundamentals}
+\pagenumbering{arabic}
+\input{Chapters/Antefatto}
 %\input{Chapters/Code}
 %% *****************************************************************
 %% Backmatter

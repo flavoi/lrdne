@@ -6,7 +6,7 @@ DESTINATION := $(shell echo $(DESTINATION))
 
 make:
 	pdflatex $(SOURCE) -output-format=pdf
-	cp lrdne.pdf $(DESTINATION)/La\ ricerca\ di\ nuovi\ eroi.pdf
+	cp lrdne.pdf $(DESTINATION)/lrdne.pdf
 	make clean
 
 clean:
