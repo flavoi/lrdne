@@ -1,11 +1,12 @@
-v.0.6b 22/12/2014
-  - Correzione di senso al sommario
-  - Aggiornato .gitignore
+v. 0.8 22/12/2014
+  - Rilasciato capitolo2: "Radianza, primo segnale di speranza"
+  - Applicata correzione di senso al sommario
 
 v. 0.6 22/12/2014
   - Riposizionato antefatto in FrontBackMatter
   - Inizializzato indice
   - Rilasciato capitolo 1: "La caduta di Kenabres"
+  - Aggiornato .gitignore
 
 v. 0.4 21/12/2014
   - Rilasciata prima revisione di antefato
