@@ -1,5 +1,5 @@
 \documentclass[10pt,a4paper,twoside,openright,titlepage,fleqn,%
-               headinclude,,footinclude,BCOR5mm,%
+               headinclude,footinclude,BCOR5mm,%
                numbers=noenddot,cleardoublepage=empty,%
                tablecaptionabove]{scrbook}
                
@@ -35,15 +35,19 @@
 \clearpage
 \input{FrontBackMatter/Abstract+Sommario}
 %\input{FrontBackMatter/Ringraziamenti}
-\pagestyle{scrheadings} 
 \clearpage
-%\input{FrontBackMatter/Indice}
-%\cleardoublepage
+\input{FrontBackMatter/Antefatto}
+\clearpage
+\input{FrontBackMatter/Indice}
+\pagestyle{scrheadings}
+\cleardoublepage
 %%******************************************************************
 %% Mainmatter
 %%******************************************************************
 \pagenumbering{arabic}
-\input{Chapters/Antefatto}
+\input{Chapters/Cap1} % La caduta di Kenabres
+%\input{Chapters/Cap2} % Radianza, primo segnale di speranza
+%\input{Chapters/Cap3} % Lo scoiattolo
 %% *****************************************************************
 %% Backmatter
 %%******************************************************************
