@@ -1,5 +1,5 @@
 # La ricerca di nuovi eroi
-In questo racconto parliamo di avventura. Ambientata in Golarion e realmente giocata in Pathfinder, la storia si sviluppa in tre capitoli tramite i quali un gruppo di avventurieri sarà destinato ad avere un ruolo fondamentale per il futuro della travagliata città di Kenabres.
+In questo racconto parliamo di avventura. Ambientata nel continente fantastico di Pathfinder, la storia si sviluppa in tre capitoli tramite i quali un gruppo di avventurieri sarà destinato ad avere un ruolo fondamentale per il futuro della travagliata città di Kenabres.
 
 L'intera narrazione è stata costruita mano a mano in reali sessioni di gioco di ruolo.
 
